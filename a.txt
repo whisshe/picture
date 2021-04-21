@@ -1,0 +1,7 @@
+科学上网
+您的服务器位于：   美国  加利福尼亚州  洛杉矶
+您的服务器IP为： 103.99.179.109
+您的服务器端口为： 9335
+您的密码为： IVQy79MN
+您的加密方式为： aes-256-gcm
+您的SS链接为：ss://YWVzLTI1Ni1nY206SVZReTc5TU5AMTAzLjk5LjE3OS4xMDk6OTMzNQ==
